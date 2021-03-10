@@ -1,0 +1,4474 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/developer?id=Smooth+Apps+Developer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Pack 1",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "19",
+      "name": "Hera Pheri",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "28",
+      "name": "Jethalal Funny",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-1.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0012.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0013.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0014.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0015.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0016.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0017.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0018.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0019.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0020.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0021.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0022.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0023.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0024.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0025.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0026.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0027.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pack 2",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Manoj Bajpayee",
+      "name": "Manoj Bajpayee",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Hera Pheri 2.0",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "29",
+      "name": "Jethalal Funny 2",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0028.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0029.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0030.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0031.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0032.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0033.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0034.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0035.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0036.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0037.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0038.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0039.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0040.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0041.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0042.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0043.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Pack 3",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "Hera Pheri 3.0",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "30",
+      "name": "Jethalal Gujarati",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-3.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0044.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0045.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0046.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0047.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0048.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0049.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0050.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0051.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0052.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0053.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0054.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0055.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0056.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0057.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0058.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0059.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0060.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0061.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0062.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0063.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0064.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0065.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0066.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0067.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0068.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0069.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0070.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0071.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0072.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0073.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Vasooli",
+      "name": "Vasooli",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Pack 4",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Babu Rao",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "3.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Arshad Warsi",
+      "name": "Arshad Warsi",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }, {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "2.webp"
+        }
+
+
+
+
+      ]
+    },
+    {
+      "identifier": "31",
+      "name": "Jethalal Hindi",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-4.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0074.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0075.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0076.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0077.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0078.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0079.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0080.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0081.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0082.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0083.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0084.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0085.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0086.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0087.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0088.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0089.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0090.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0091.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0092.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0093.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0094.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0095.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0096.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0097.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0098.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0099.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0100.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0101.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0102.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0103.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Pack 5",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "shakti kapoor",
+      "name": "shakti kapoor",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "Akshay Kumar",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "32",
+      "name": "Jethalal Funny 3",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-5.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0104.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0105.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0106.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0107.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0108.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0109.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0110.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0111.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0112.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0113.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0114.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0115.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0116.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0117.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0118.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0119.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0120.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0121.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0122.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0123.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0124.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0125.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0126.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0127.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0128.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0129.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0130.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0131.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0132.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Pack 6",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "24",
+      "name": "Paresh Rawal",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "4.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "33",
+      "name": "Jetha&Daya",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-6.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0134.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0135.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0136.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0137.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0138.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0139.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0140.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0141.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0142.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0143.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0144.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0145.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0146.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0147.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0148.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0149.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0150.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0151.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0152.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0153.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0154.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0155.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0156.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0157.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0158.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0159.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0160.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0161.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0162.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0163.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Pack 7",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "25",
+      "name": "Hera Pheri 4.0",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "20.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "34",
+      "name": "TMKOC Dialogues",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-7.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0164.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0165.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0166.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0167.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0168.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0169.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0170.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0171.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0172.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0173.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0174.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0175.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0176.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0177.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0178.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0179.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0180.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0181.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0182.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0183.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0184.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0185.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0186.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0187.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0188.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0189.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0190.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0191.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0192.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0193.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Pack 8",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "26",
+      "name": "Kachra Seth",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "35",
+      "name": "Jethalal Funny 4",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-8.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0194.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0195.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0196.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0197.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0198.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0199.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0200.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0201.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0202.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0203.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0204.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0205.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0206.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0207.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0208.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0209.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0210.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0211.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0212.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0213.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0214.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0215.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0216.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0217.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0218.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0219.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0220.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0221.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0222.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Pack 9",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "27",
+      "name": "Akshay Kumar 2.0",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Nana Patekar",
+      "name": "Nana Patekar",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "1.webp"
+        },  {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "11.webp"
+        }, {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "36",
+      "name": "Champaklal Funny",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-9.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0223.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0224.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0225.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0226.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0227.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0228.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0229.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0230.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0231.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0232.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0233.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0234.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0235.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0236.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0237.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Pack 10",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "37",
+      "name": "Champaklal Funny 2",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-10.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0238.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0239.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0240.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0241.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0242.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0243.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0244.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0245.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0246.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0247.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0248.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0249.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Pack 11",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "38",
+      "name": "TMKOC Reactions",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-11.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0250.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0251.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0252.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0253.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0254.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0255.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0256.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0257.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0258.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0259.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0260.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0261.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0262.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0263.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0264.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0265.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0266.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0267.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0268.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0269.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0270.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0271.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0272.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0273.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0274.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0275.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0276.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0277.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0278.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0279.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Sanju",
+      "name": "Sanju",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+
+
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "28.webp"
+        } ,
+
+        {
+          "image_file": "20.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "39",
+      "name": "Jethalal ft. BabitaJi",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-12.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0280.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0281.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0282.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0283.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0284.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0285.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0286.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Pack 12",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Anil Kapoor",
+      "name": "Anil Kapoor",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "40",
+      "name": "BabitaJi",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-13.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0287.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0288.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0289.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0290.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0291.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0292.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0293.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0294.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0295.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0296.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0297.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0298.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0299.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0300.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0301.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Rajpal Yadav",
+      "name": "Rajpal Yadav",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Pack 13",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "41",
+      "name": "TMKOC Funny",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-14.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0302.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0303.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0304.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0305.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0306.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0307.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0308.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0309.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0310.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0311.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0312.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0313.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0314.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0315.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0316.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0317.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0318.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0319.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0320.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0321.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0322.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0323.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0324.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0325.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0326.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0327.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0328.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0329.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0330.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0331.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Pack 14",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Vijay Raj",
+      "name": "Vijay Raj",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "42",
+      "name": "Jethalal Funny 5",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-15.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0332.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0333.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0334.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0335.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0336.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0337.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0338.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0339.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0340.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0341.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0342.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0343.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0344.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0345.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0346.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0347.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0348.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0349.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0350.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0351.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Pack 15",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "43",
+      "name": "TMKOC Funny 3",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "tray-16.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "STK-20201003-WA0352.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0353.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0354.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0355.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0356.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0357.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0358.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0359.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0360.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0361.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0362.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0363.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0364.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0365.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0366.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0367.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0368.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0369.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0370.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0371.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0372.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0373.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0374.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0375.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0376.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0377.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0378.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0379.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0380.webp"
+        },
+        {
+          "image_file": "STK-20201003-WA0381.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Paresh Rawal",
+      "name": "Paresh Rawal",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "10.webp"
+        } ,
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Pack 16",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Ajay Devgan",
+      "name": "Ajay Devgan",
+      "publisher": " Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Pack 17",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Jhony lever",
+      "name": "Jhony lever",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Pack 18",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "aa.png",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Akshay Kumar",
+      "name": "Akshay Kumar",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Mithoon",
+      "name": "Mithoon",
+      "publisher": "Smooth Apps Developer",
+      "tray_image_file": "icon.png",
+      "publisher_email": "",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    }
+  ]
+}
+
+
